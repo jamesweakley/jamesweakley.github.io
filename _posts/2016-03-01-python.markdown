@@ -1,0 +1,11 @@
+---
+layout: null
+title: " "
+subtitle: Python
+image: "img/timeline/python.jpg"
+side: right
+size: tiny
+---
+Completed a Python course that covered data manipulation and sanitisation. I didn't mind the language overall (like Ruby, hard to optimise thanks to the GIL), I love that there's only one way to do things.
+
+I found the most attractive and deterring aspect to be the vast number of third party libraries. Attractive because they provide so much functionality for machine learning and data mining. Deterring because they are god-awful APIs, presumably written by subject matter academics rather than software developers.

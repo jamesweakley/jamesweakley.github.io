@@ -1,0 +1,10 @@
+---
+layout: null
+title: " "
+subtitle: Built a compiler
+image: "img/timeline/compiler.jpg"
+side: right
+size: tiny
+---
+Tokenising, lexing, parsing...for the first time I really understood the mechanics of how some code written in a high-level language ultimately ran on hardware.
+All those linux build tools I'd seen in scripts actually made sense.

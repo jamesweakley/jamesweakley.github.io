@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Automated testing
+image: "img/timeline/testing.jpg"
+side: right
+size: tiny
+---
+Focused a lot on automated testing and various other aspects of software quality. Learned a lot about what works well and what doesn't over both in the short term and long term.

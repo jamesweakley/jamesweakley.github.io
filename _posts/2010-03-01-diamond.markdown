@@ -1,0 +1,8 @@
+---
+layout: null
+title: March 2010 - November 2014
+subtitle:
+image: "img/timeline/diamond.jpg"
+---
+### Managed IT Services
+Held a number of different technical and management roles. Initially an IT consultant and support escalation point, progressing to ICT Manager and then Managed Services architect.

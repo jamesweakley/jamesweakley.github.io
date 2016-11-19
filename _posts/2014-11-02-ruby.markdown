@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Learned Ruby and Rails
+image: "img/timeline/ruby.jpg"
+side: right
+size: tiny
+---
+Love the ecosystem - a library for everything, great package dependency management. If I'm honest, I did miss static type checking.

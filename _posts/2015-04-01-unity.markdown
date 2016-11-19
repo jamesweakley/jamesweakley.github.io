@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Unity
+image: "img/timeline/unity.jpg"
+side: right
+size: tiny
+---
+Learned to use the [Unity](https://unity3d.com) engine, partly to do some game development and partly because it allowed me to experiment with Augmented Reality and Virtual Reality, both of which I had become interested in (particularly [Hololens](https://www.microsoft.com/microsoft-hololens/en-us)).

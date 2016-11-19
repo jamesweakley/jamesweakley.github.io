@@ -1,0 +1,10 @@
+---
+layout: null
+title: " "
+subtitle:
+image: "img/timeline/microsoft.jpg"
+side: right
+size: small
+---
+### Microsoft certified
+Given my rocky but long-term relationship with Microsoft products, I decided to finally tie the knot and get the MCITP: Enterprise Administrator certification

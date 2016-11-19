@@ -1,0 +1,14 @@
+url: http://jamesweakley.github.io
+baseurl: /timeline-jekyll-theme
+
+# Site Settings
+title: James Weakley
+description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
+keywords: "jekyll, theme"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]

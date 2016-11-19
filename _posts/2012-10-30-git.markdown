@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Ditched subversion for git
+image: "img/timeline/git.jpg"
+side: right
+size: tiny
+---
+Have never looked back. Not even a slight glance.

@@ -1,0 +1,9 @@
+---
+layout: null
+title: 1998
+subtitle:
+image: "img/timeline/redhat.jpg"
+side: right
+size: tiny
+---
+Installed Red Hat Linux from some PC magazine CD. Was impressed with what it could do, but I was too much into games to run it full time.

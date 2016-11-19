@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Learned an assembly language
+image: "img/timeline/assembly.jpg"
+side: right
+size: tiny
+---
+Programmed a basic robot to follow a white line. Cool to have done, but will probably never work that close to the hardware.

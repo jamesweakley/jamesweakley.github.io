@@ -1,0 +1,11 @@
+---
+layout: null
+title: " "
+subtitle: Populo
+image: "img/timeline/populo.jpg"
+side: right
+size: tiny
+---
+Came to the realisation that Populo had become an overengineered mess. In designing the ultimate features, it was so complex I could not even use it anymore. Learned a tough and valuable lessing in [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product).
+
+Stripped out a great many unneccessary features in an effort to make the site usable, and did a design overhaul.

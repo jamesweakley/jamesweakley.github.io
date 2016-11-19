@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Learned prolog
+image: "img/timeline/prolog.jpg"
+side: right
+size: tiny
+---
+The declarative paradigm took some adjustment but I felt the appeal. The industry was infatuated with OO, so I saw it as just an interesting detour.

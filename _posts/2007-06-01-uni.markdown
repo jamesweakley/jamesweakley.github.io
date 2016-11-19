@@ -1,0 +1,10 @@
+---
+layout: null
+title: June 2007
+subtitle:
+image: "img/timeline/uon.jpg"
+side: right
+size: small
+---
+### Completed [B. Computer Science](https://www.newcastle.edu.au/degrees/bachelor-of-computer-science)
+University of Newcastle

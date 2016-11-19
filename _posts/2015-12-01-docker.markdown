@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Discovered containers
+image: "img/timeline/docker.jpg"
+side: right
+size: tiny
+---
+Moved some things into Docker. Found that for stateless components it allowed for a much simpler deployment pipeline and greatly reduce some of the traditional deployment risks.

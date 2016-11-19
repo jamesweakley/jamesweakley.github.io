@@ -1,0 +1,10 @@
+---
+layout: null
+title: Early years
+subtitle:
+image: "img/timeline/farm.jpg"
+---
+### Farm work
+I grew up near my Grandparents' farm and did a lot of farm work, and saw some fascinating applications of technology. While land grading parts of the farm for irrigation purposes, my uncle wrote a Turbo Pascal program to calculate a plane of best fit based on the paddock survey data. 
+We had a [John Deere 8400](http://www.tractordata.com/farm-tractors/003/2/2/3228-john-deere-8400.html) that could [self-diagnose](http://manuals.deere.com/omview/OMAR232106_19/OU1092A_0000020_19_28SEP06_1.htm) just about any operating fault, and could even [steer automatically](https://johndeerejournal.com/2016/03/terry-picket-first-gps-unit/).
+

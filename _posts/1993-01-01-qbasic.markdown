@@ -1,0 +1,9 @@
+---
+layout: null
+title: 1993
+subtitle:
+image: "img/timeline/qbasic.jpg"
+side: right
+size: tiny
+---
+Wrote my first game mod, which involved me editing the source code of QBASIC Gorillas to make the explosions larger. I then decided to write my own maze exploration game. From memory I took a rather crude approach and just used a huge collection of IF statements on the player coordinates to allow or prevent movement and detect the end.

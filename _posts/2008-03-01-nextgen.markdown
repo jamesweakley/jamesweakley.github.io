@@ -1,0 +1,8 @@
+---
+layout: null
+title: March 2008 - March 2010
+subtitle:
+image: "img/timeline/nextgen.jpg"
+---
+### Software Developer
+Software developer working on services and applications for the lending industry. Predominately B2B messaging, document manipulation and metadata management on a Java stack.

@@ -1,0 +1,11 @@
+---
+layout: null
+title: " "
+subtitle: PaaS adventures
+image: "img/timeline/paas.jpg"
+side: right
+size: tiny
+---
+Spent some time trying to find a good PaaS stack for Populo, as I didn't like managing a whole VM just for a simple website. Ran it on Elastic Beanstalk for a while, but found it a bit restrictive and unreliable (frequent restarts). Used Azure Web sites and had a similar experience.
+
+I still feel like PaaS should be the ultimate goal, but the tools don't seem ready so decided I'll fall back to IaaS for now.

@@ -1,0 +1,11 @@
+---
+layout: null
+title: " "
+subtitle: Populo
+image: "img/timeline/populo.jpg"
+side: right
+size: tiny
+---
+Found that development in Google Web Toolkit got incredibly slow as the project grew, and having it take care of the client-side elements became more of a burden than a help. Meanwhile, other client-side frameworks had matured greatly, and the HTML5 canvas enjoyed widespread compatibility.
+
+So we made the tough decision to cut our losses and re-write the site. Was able to keep a lot of the server-side java components, but scrapped flash completely for HTML/javascript.

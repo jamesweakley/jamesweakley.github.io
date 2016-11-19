@@ -1,0 +1,9 @@
+---
+layout: null
+title: 1992
+subtitle:
+image: "img/timeline/bbs.jpg"
+side: right
+size: tiny
+---
+We had 2400 baud modem that I used one day to dial a BBS. I remember an ASCII art banner but wasn't sure what to actually do. I must have left it connected because some time later dad asked me about a $15 phonecall on the bill.

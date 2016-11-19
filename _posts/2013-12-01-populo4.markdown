@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Populo
+image: "img/timeline/populo.jpg"
+side: right
+size: tiny
+---
+We had architected the Populo payment model around Paypal adaptive payments, but when we applied for a production account, Paypal advised that they would not support our proposed use of it due to insurance underwriting rules. Another launch date missed, and back to the drawing board for the main customer workflow.

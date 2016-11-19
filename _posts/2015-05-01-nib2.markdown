@@ -1,0 +1,8 @@
+---
+layout: null
+title: May 2015 - Present
+subtitle:
+image: "img/timeline/nib.jpg"
+---
+### QA / Release Manager
+Responsible for software quality assurance and the software delivery pipeline within the Core Applications team.

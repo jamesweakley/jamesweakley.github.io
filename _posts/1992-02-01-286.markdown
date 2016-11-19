@@ -1,0 +1,9 @@
+---
+layout: null
+title: 1992
+subtitle:
+image: "img/timeline/286.jpg"
+side: right
+size: tiny
+---
+Another friend of the family gave us an old Intel 80286 PC. He must have detected some enthusiasm on my part, because he included a copy of the canonical [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) by Ritchie and Kernighan, and told me it was the bible of computing programming. After he left, I read it cover to cover and then wrote my own merge sort function. Just kidding, I tossed the book aside and spent the afternoon playing [F15 Strike Eagle III](https://www.youtube.com/watch?v=8CVHkhmvB4g).

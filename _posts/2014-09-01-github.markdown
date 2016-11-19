@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Github
+image: "img/timeline/github.jpg"
+side: right
+size: tiny
+---
+Convinced a global community of users of a Solarwinds NOC product to migrate their custom monitoring components from an old private sharepoint list to Github.

@@ -1,0 +1,8 @@
+---
+layout: null
+title: November 2014 - May 2015
+subtitle:
+image: "img/timeline/nib.jpg"
+---
+### QA Engineer
+Responsible for driving improvement of software delivery practises within the Core Applications team.

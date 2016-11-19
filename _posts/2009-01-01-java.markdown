@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Enterprise java
+image: "img/timeline/j2ee.jpg"
+side: right
+size: tiny
+---
+Found that outside of the neat and pure java I learned at university, there was an unsightly mess called J2EE. Countless XML files, factories for your factories, class annotations, beans, volumes of documentation. Soul-crushing stuff.

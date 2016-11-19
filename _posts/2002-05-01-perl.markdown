@@ -1,0 +1,9 @@
+---
+layout: null
+title: Perl
+subtitle:
+image: "img/timeline/perl.jpg"
+side: right
+size: tiny
+---
+Learned perl, wrote a script that provided a one-page linux server configuration form. In hindsight it was probably full of security holes.

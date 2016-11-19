@@ -1,0 +1,9 @@
+---
+layout: null
+title: August 2003 - August 2005
+subtitle:
+image: "img/timeline/reserves.jpg"
+---
+### APC Driver, Australian Army Reserve
+Joined for part-time work while studying at university, and to try something a bit different. Operated and maintained the [M113A1 Armoured Fighting Vehicle](https://en.wikipedia.org/wiki/M113_armored_personnel_carrier). Got yelled at and fired/detonated/drove countless different weapons. Won a marksmanship award.
+

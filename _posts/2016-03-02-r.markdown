@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: R
+image: "img/timeline/r.jpg"
+side: right
+size: tiny
+---
+Completed a R course that covered data sanitisation and some basic machine learning/statistical analysis. It was nice to get back to some functional programming again, (the vectorised functions make for some nice terse code), but I had similar frustrations to those I had with Python - that the community produces very useful but awfully designed libraries.

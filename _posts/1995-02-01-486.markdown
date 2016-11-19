@@ -1,0 +1,9 @@
+---
+layout: null
+title: 1995
+subtitle:
+image: "img/timeline/486.jpg"
+side: right
+size: tiny
+---
+Upgraded to an Intel 80486 PC. Enjoyed countless games during what I consider to be the golden era of PC gaming.

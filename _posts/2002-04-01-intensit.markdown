@@ -1,0 +1,10 @@
+---
+layout: null
+title: March 2002 - March 2004
+subtitle:
+image: "img/timeline/intensit.jpg"
+---
+### IT consultant
+First job in IT, working in rural NSW providing IT support to businesses and government for a small, 4 person company. Configured Redhat Linux servers for a variety of tasks, including multi-site VPN routing, file server and web proxy.
+
+

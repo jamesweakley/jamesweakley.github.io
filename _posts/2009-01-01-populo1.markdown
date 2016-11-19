@@ -1,0 +1,10 @@
+---
+layout: null
+title: " "
+subtitle: Populo
+image: "img/timeline/populo.jpg"
+side: right
+size: tiny
+---
+A friend and I started writing an event ticketing web site in our spare time. I decided to use [Google Web Toolkit](http://www.gwtproject.org/) on the promise of not needing to worry about front-end code. Opted for Flash for the seating planner in the absence of a better option.
+

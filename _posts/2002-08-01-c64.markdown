@@ -1,0 +1,9 @@
+---
+layout: null
+title: Customers
+subtitle:
+image: "img/timeline/c64.jpg"
+side: right
+size: tiny
+---
+At work, a farmer brought in a rat-infested C64 that he called "a 83 model that probably just needs a service"

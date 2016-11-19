@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Continuous delivery
+image: "img/timeline/cd.jpg"
+side: right
+size: tiny
+---
+Championed continuous delivery, and moved many of nib's core applications toward this model by removing obstacles and modernising the deployment pipeline.

@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Learned scheme
+image: "img/timeline/scheme.jpg"
+side: right
+size: tiny
+---
+Another interesting paradigm. The recursion really did reminded me of recursion.
