@@ -1,7 +1,7 @@
 ---
 layout: null
 title: " "
-subtitle: Discovered containers
+subtitle: Containers
 image: "img/timeline/docker.jpg"
 side: right
 size: tiny

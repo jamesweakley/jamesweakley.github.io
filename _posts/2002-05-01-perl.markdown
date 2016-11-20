@@ -6,4 +6,4 @@ image: "img/timeline/perl.jpg"
 side: right
 size: tiny
 ---
-Learned perl, wrote a script that provided a one-page linux server configuration form. In hindsight it was probably full of security holes.
+Learned perl. At work we were deploying a lot of multi-purpose linux servers, so I wrote a provisioning script that provided a one-page configuration form and applied it to the machine.
