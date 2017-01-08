@@ -1,0 +1,8 @@
+---
+layout: null
+title: January 2017 - Present
+subtitle:
+image: "img/timeline/nib.jpg"
+---
+### Enterprise Architect
+Provide architectural guidance on IT initiatives, with a focus on data and API integration.
