@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Newcastle Futurists Meetup
+image: "img/timeline/datastreaming.jpg"
+side: right
+size: tiny
+---
+Co-founded a [meetup](https://www.meetup.com/Newcastle-Futurists) in Newcastle for futurists.
