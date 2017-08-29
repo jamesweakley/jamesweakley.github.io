@@ -1,0 +1,11 @@
+---
+layout: null
+title: " "
+subtitle: Hierarchical Temporal Memory
+image: "img/timeline/numenta.jpg"
+side: right
+size: tiny
+---
+12 years after its release, I discovered and read [On Intelligence](https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines/dp/0805078533) by Jeff Hawkins. It outlined some basic principles about how intelligence arises in the neocortex, and solidified a feeling I had after a decade-long interest in machine learning; that the field is not on the path toward Artificial General Intelligence.
+
+I plan to learn as much as I can about the neocortex, and will follow Jeff's research company [Numenta](http://numenta.com) very closely.
