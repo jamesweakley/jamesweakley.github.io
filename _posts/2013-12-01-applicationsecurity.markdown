@@ -6,4 +6,4 @@ image: "img/timeline/security.jpg"
 side: right
 size: tiny
 ---
-Decided to do some more practical application security research. After trying a few alarmingly simple SQL injection attacks on some SaaS sites, quickly found myself at the helm of a rather large botnet. Decided to retire before getting into any trouble.
+Decided to do some more practical application security research. Discovered first-hand that many large companies have poor web security practices. Decided to retire before getting into any trouble.
