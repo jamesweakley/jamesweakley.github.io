@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: BigData processing
+image: "img/timeline/hadoop_logo.jpg"
+side: right
+size: tiny
+---
+Familiarised myself with the common Apache BigData projects so that I could scale out analytics workloads and analyse streaming data. Focused on Hadoop MapReduce, Spark, Hive and Kafka.
