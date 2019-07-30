@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: Data Streams and Lakes
+image: "img/timeline/data_lake.jpg"
+side: right
+size: tiny
+---
+Continued to build out nib's data infrastructure, including data streaming, a data lake and processing at scale
