@@ -1,6 +1,6 @@
 ---
 layout: null
-title: January 2017 - Present
+title: January 2017 - December 2019
 subtitle:
 image: "img/timeline/nib.jpg"
 ---
