@@ -1,0 +1,10 @@
+---
+layout: null
+title: October 2020 - Present
+subtitle:
+image: "img/timeline/omnata_logo.jpg"
+---
+### Co-Founder and CEO
+Omnata was founded to be the operational part of the modern data stack, and make traditional middleware redundant.
+
+Omnata provides direct, native integrations between cloud data warehouses and enterprise cloud applications.

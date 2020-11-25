@@ -1,0 +1,9 @@
+---
+layout: null
+title: " "
+subtitle: COVID-19 pandemic
+image: "img/timeline/covid_19.jpg"
+side: right
+size: tiny
+---
+A strange and difficult year for the whole world, as a global pandemic forced many businesses to either hibernate, close down, or figure out how to work remotely.

@@ -1,8 +1,8 @@
 ---
 layout: null
-title: January 2020 - Present
+title: January 2020 - October 2020
 subtitle:
 image: "img/timeline/hh_logo.jpg"
 ---
 ### Head of Technology
-Honeysuckle Health is a specialist healthcare data science and service company with the specific purpose of delivering better health outcomes for members and communities generally. It does this by understanding their current and future health needs, helping them to prevent and manage disease risk and make better treatment decisions.
+Honeysuckle Health, a joint venture between Cigna (NYSE:CI) and nib (ASX:NHF),is a specialist healthcare data science and service company with the specific purpose of delivering better health outcomes for members and communities generally. It does this by understanding their current and future health needs, helping them to prevent and manage disease risk and make better treatment decisions.
